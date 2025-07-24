@@ -8,7 +8,7 @@ This project uses GPT-2 to generate fake news and BERT to detect it. It demonstr
 - Interactive Gradio UI in Colab
 
 ## 📁 Files
-- Fake_News_Generator_&_Detector.ipynb - The complete Google Colab notebook
+- app_fixed.ipynb - The complete Google Colab notebook
 - requirements.txt - Required libraries
 - Fake_News_Generator_and_Detector_Project_Report.docx - Project documentation
 
