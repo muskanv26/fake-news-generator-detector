@@ -1,14 +1,6 @@
-
----
-
-### **`requirements.txt` (Copy everything below this line)**
-```plaintext
-# Core
 torch==2.0.1
 transformers==4.30.0
 pandas==1.5.3
 scikit-learn==1.2.2
 gradio==3.36.0
-
-# Jupyter (if using notebook)
 jupyter==1.0.0
