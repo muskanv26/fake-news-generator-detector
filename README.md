@@ -1,7 +1,5 @@
 # 📰 Fake News Generator & Detector using AI  
-*A dual-system AI tool: Generate fake news with GPT-2 and detect it with a calibrated classifier.*  
-
-![Demo Screenshot](assets/demo_screenshot.jpg)  
+*A dual-system AI tool: Generate fake news with GPT-2 and detect it with a calibrated classifier.*    
 
 ## 🌟 Features  
 - **🤖 GPT-2 Generator**: Creates realistic/satirical fake news headlines.  
@@ -28,7 +26,6 @@ Or convert to a script and run:
 
 bash
 python fake_news_clean_final.py
-Access the UI at http://127.0.0.1:7860.
 
 Try it out:
 
